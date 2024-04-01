@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am actively looking forward to work as a Java developer in UK. All of my past experience was from Hong Kong but I am sure I have got most of the transferable skills could be applied here.
+
+With over a decade of Java development experience, I have navigated the entire development lifecycle, from gathering requirements to deploying and testing solutions. My passion lies in tackling complex problems through code. I am eager to contribute my diverse skills and enthusiasm to a dynamic development team in our ever-evolving tech landscape.
+
 
 <!--
 **fai420uk/fai420uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
