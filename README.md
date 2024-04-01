@@ -1,9 +1,14 @@
+<div>
+  <img align="left" alt="WhoIAm" width="50%" src="./header.png">
+  <img align="right" alt="Skill" width="50%" src="./banner.png">
+</div>
+<div>
 ### Hi there 👋
-I am actively looking forward to work as a Java developer in UK. All of my past experience was from Hong Kong but I believe my skills could be applied.
+<p>I am actively looking forward to work as a Java developer in UK. All of my past experience was from Hong Kong but I believe my skills could be applied.</p>
 
-With over a decade of Java development experience, I have navigated the entire development lifecycle, from gathering requirements to deploying and testing solutions. My passion lies in tackling complex problems through code. I am eager to contribute my diverse skills and enthusiasm to a dynamic development team in our ever-evolving tech landscape.
+<p>With over a decade of Java development experience, I have navigated the entire development lifecycle, from gathering requirements to deploying and testing solutions. My passion lies in tackling complex problems through code. I am eager to contribute my diverse skills and enthusiasm to a dynamic development team in our ever-evolving tech landscape.</p>
+</div>
 
-<img align="right" alt="Coding" width="400" src="./header.png">
 
 
 <!--
