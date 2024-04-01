@@ -21,7 +21,7 @@
   />
   <source
     srcset="https://profile-repo-git-main-fai420uks-projects.vercel.app/api?username=fai420uk&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
   <img src="https://profile-repo-git-main-fai420uks-projects.vercel.app/api?username=fai420uk&show_icons=true" />
 </picture>
