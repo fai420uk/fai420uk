@@ -28,6 +28,8 @@
 
 [![Top Langs](https://profile-repo-git-main-fai420uks-projects.vercel.app/api/top-langs/?username=fai420uk)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fai420uk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **fai420uk/fai420uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
