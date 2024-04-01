@@ -1,6 +1,10 @@
 <div>
-  <img align="left" alt="WhoIAm" width="50%" src="./header.png">
-  <img align="right" alt="Skill" width="50%" src="./banner.png">
+  <table>
+    <tr>
+      <td><img align="left" alt="WhoIAm" width="100%" src="./header.png"></td>
+      <td><img align="right" alt="Skill" width="100%" src="./banner.png"></td>
+    </tr>
+  </table>
 </div>
 <div>
 ### Hi there 👋
