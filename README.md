@@ -3,7 +3,9 @@ I am actively looking forward to work as a Java developer in UK. All of my past 
 
 With over a decade of Java development experience, I have navigated the entire development lifecycle, from gathering requirements to deploying and testing solutions. My passion lies in tackling complex problems through code. I am eager to contribute my diverse skills and enthusiasm to a dynamic development team in our ever-evolving tech landscape.
 
-[![MasterHead](your image link)](your GitHub link)
+<img align="right" alt="Coding" width="400" src="./header.png">
+
+
 <!--
 **fai420uk/fai420uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
