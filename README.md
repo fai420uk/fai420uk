@@ -20,9 +20,8 @@ Technically experienced developer with a strong foundation in SQL, business data
 **Description:** *This is an iOS app to chat with the local hosted AI on my own mac. *
 
 **Screenshots:** <div align="center">
-  <img src="./header.png" width="45%" alt="Project Screenshot 1">
+  <img src="./RobinSC_0.png" width="45%" alt="Project Screenshot 1">
   &nbsp;
-  <img src="./header.png" width="45%" alt="Project Screenshot 2">
 </div>
 
 *<br>*
@@ -32,9 +31,8 @@ Technically experienced developer with a strong foundation in SQL, business data
 **Description:** *This is a web API sit between the caller and the ollama server for AI communication *
 
 **Screenshots:** <div align="center">
-  <img src="./header.png" width="45%" alt="Project Screenshot 1">
+  <img src="./JoebotSC_0.png" width="45%" alt="Project Screenshot 1">
   &nbsp;
-  <img src="./header.png" width="45%" alt="Project Screenshot 2">
 </div>
 
 *<br>*
@@ -46,7 +44,7 @@ Technically experienced developer with a strong foundation in SQL, business data
 I am actively looking for new opportunities in the UK. Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/josephleungcf" target="_blank">
-  <img src="[https://brand.linkedin.com/downloads](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg)" alt="LinkedIn Badge"/>
+  LinkedIn
 </a>
 
 <!--
