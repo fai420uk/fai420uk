@@ -1,13 +1,4 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%"><img align="center" alt="WhoIAm" width="100%" src="./header.png"></td>
-      <td width="50%"><img align="center" alt="Skill" width="100%" src="./banner.png"></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   
 # Joseph Leung
 **Software Product Owner & App Developer**
@@ -18,20 +9,32 @@
 
 ## 📄 Personal Statement
 
-With over a decade of software development experience navigating the entire product lifecycle—from gathering requirements to deployment and testing—I am passionate about tackling complex problems and delivering value. Having transitioned my career from Hong Kong to the UK, I am eager to contribute my diverse technical skills and product vision to a dynamic team in an ever-evolving tech landscape.
+Technically experienced developer with a strong foundation in SQL, business data, and full-stack web application development. Comfortable working across both IT support and development tasks, with hands-on experience writing and optimising SQL queries, building reporting solutions, and maintaining enterprise systems. Outside of work I actively build personal projects — most recently setting up a locally hosted AI language model on my own hardware and writing a Python program to interact with it, controlling the base prompt and chat history to create a personalised assistant. Keen to contribute directly to real business projects in a collaborative team environment.
 
 ---
 
 ## 🚀 Projects
 
-### [Your Project Title]
+### [RobinYapping]
 
-**Description:** *Replace this text with a brief description of what the project is, the problem it solves, and the technologies used. Focus on your role in shaping the product and driving its development.*
+**Description:** *This is an iOS app to chat with the local hosted AI on my own mac. *
 
 **Screenshots:** <div align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+1" width="45%" alt="Project Screenshot 1">
+  <img src="./header.png" width="45%" alt="Project Screenshot 1">
   &nbsp;
-  <img src="https://via.placeholder.com/400x250.png?text=Screenshot+2" width="45%" alt="Project Screenshot 2">
+  <img src="./header.png" width="45%" alt="Project Screenshot 2">
+</div>
+
+*<br>*
+
+### [joe-bot-ai]
+
+**Description:** *This is a web API sit between the caller and the ollama server for AI communication *
+
+**Screenshots:** <div align="center">
+  <img src="./header.png" width="45%" alt="Project Screenshot 1">
+  &nbsp;
+  <img src="./header.png" width="45%" alt="Project Screenshot 2">
 </div>
 
 *<br>*
@@ -42,8 +45,8 @@ With over a decade of software development experience navigating the entire prod
 
 I am actively looking for new opportunities in the UK. Feel free to reach out!
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/josephleungcf" target="_blank">
+  <img src="[https://brand.linkedin.com/downloads](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg)" alt="LinkedIn Badge"/>
 </a>
 
 <!--
