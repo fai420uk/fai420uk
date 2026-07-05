@@ -1,8 +1,6 @@
 <div align="center">
-  
 # Joseph Leung
 **Software Product Owner & App Developer**
-
 </div>
 
 ---
@@ -13,9 +11,18 @@ Technically experienced developer with a strong foundation in SQL, business data
 
 ---
 
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 ## 🚀 Projects
 
 ### [RobinYapping]
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 **Description:** *This is an iOS app to chat with the local hosted AI on my own mac. *
 
@@ -27,7 +34,10 @@ Technically experienced developer with a strong foundation in SQL, business data
 *<br>*
 
 ### [joe-bot-ai]
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 **Description:** *This is a web API sit between the caller and the ollama server for AI communication *
 
 **Screenshots:** <div align="center">
