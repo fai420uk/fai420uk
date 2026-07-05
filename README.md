@@ -38,6 +38,7 @@ Technically experienced developer with a strong foundation in SQL, business data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
 **Description:** *This is a web API sit between the caller and the ollama server for AI communication *
 
 **Screenshots:** <div align="center">
